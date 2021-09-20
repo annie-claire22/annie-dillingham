@@ -2,7 +2,7 @@
 
 **Project Directors:** Kate Holterhoff and Joe Essey
 
-**Project URL:** http://www.visualhaggard.org/bios
+**Project URL:** http://www.visualhaggard.org/
 
 **Summary**
 

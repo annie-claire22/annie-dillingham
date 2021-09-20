@@ -19,3 +19,6 @@ The Biography of Rider Haggard’s life contained rich and valuable information 
 
 Visual Haggard is accessible on a mobile device and laptop, but the mobile version does not portray the illustrations as significantly as the laptop version.Viewing Visual Haggard on a laptop or desktop displays all of the illustrations side by side, allowing for a better experience and understanding of how the artworks connect to each other. On a mobile device, each tab is not easily accessible for the user, but on a laptop, each tab can be seen at the top of the screen and browsed with a simple click.
 
+**Credit**
+
+Kate Holterhoff, editor, and Joe Essey, lead developer, pioneered Visual Haggard, seeking to spread scholarly knowledge about Rider Haggard and connect an audience with beautiful illustrations and impactful literature. Holterhoff diligently credits each illustrator and scholar that dedicated their talent and work to portray some of Haggard’s rich stories. Acknowledgements are specifically given to Catherine Golden, Andrew Stauffer, and Dino Felluga as they greatly contributed to and supported the development of Visual Haggard as a whole.

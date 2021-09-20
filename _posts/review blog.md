@@ -3,12 +3,11 @@
 
 Visual Haggard is a project that aims to emphasize Rider Haggard’s novels and original illustrations. With the help of Haggard’s biography, the numerous novels and illustrations on the site portray different themes such as violence, South African culture, and love. Haggard’s life was greatly influenced by these different themes. They shaped the way he approached his writing, eventually bringing about the emergence of his literary style. His immersion into South African culture was likely the largest influence in his writing, and inspired the setting, scenes, and characters in the many novels displayed on Visual Haggard.
 
+![Screen Shot 2021-09-20 at 10 50 41 AM](https://user-images.githubusercontent.com/89642987/134024494-eb24987d-1300-49f2-b381-a761fcc648e4.png)
+
 **Relevance**
-![Screen Shot 2021-09-20 at 10 45 37 AM](https://user-images.githubusercontent.com/89642987/134024197-4bea044d-d580-4dd0-bfa5-8d94c5623fd9.png)
 
 After a quick browse of Visual Haggard, I noticed the information was clear about how Rider Haggard’s novels would be illustrated. Not only was the site informative about how the novels would be illustrated in several different ways, it also shared why these illustrations were relevant. In addition to this site revamping and emphasizing Haggard’s illustrations in a new and exciting way, it also seeks to make these original illustrations art pieces themselves, almost independent of the novels but still relevant to the context. Each cover of a novel can be seen to relate back to Rider Haggard’s biography, which mentions his important literary themes: violence, South African culture, and love.
-
-! [Front Page]
 
 **Findings**
 
@@ -17,6 +16,8 @@ The Visual Haggard website was easy to navigate, and the links connected to the 
 The Novels and Illustrators tabs contain beautiful artwork and depictions of Haggard’s novels and stories. Each novel and its cover is accompanied by a short summary and how the cover was created. Similarly, almost every illustration within the Illustrators tab is paired with a small description of the illustrator and their related work. These easily accessible images on the Visual Haggard site are wonderful ways to connect imagery and literature with each other. 
 
 The Biography of Rider Haggard’s life contained rich and valuable information about his life in chronological order and how he came to be a great writer. This section was very informative and beneficial in understanding Haggard’s journey to literary success; however, there were several paragraphs relating to his earlier life that could have been condensed. The load of information about his youth seemed to bury the most important text about his literary career, one of the sole focuses of Visual Haggard. The majority of background information on Rider Haggard’s life was important and essential but could have simultaneously been more concise. 
+
+![Screen Shot 2021-09-20 at 10 45 37 AM](https://user-images.githubusercontent.com/89642987/134024565-2260a529-f071-4336-8883-791f7ed273b0.png)
 
 **Design**
 

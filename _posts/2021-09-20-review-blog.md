@@ -8,11 +8,11 @@
 
 _Visual Haggard_ is a project that aims to emphasize Rider Haggard’s novels and original illustrations. With the help of Haggard’s biography, the numerous novels and illustrations on the site portray different themes such as violence, South African culture, and love. Haggard’s life was greatly influenced by these different themes. They shaped the way he approached his writing, eventually bringing about the emergence of his literary style. His immersion into South African culture was likely the largest influence in his writing, and inspired the setting, scenes, and characters in the many novels displayed on _Visual Haggard_.
 
-![Screen Shot 2021-09-20 at 10 50 41 AM](https://user-images.githubusercontent.com/89642987/134024494-eb24987d-1300-49f2-b381-a761fcc648e4.png)
-
 #### **Relevance**
 
 After a quick browse of _Visual Haggard_, I noticed the information was clear about how Rider Haggard’s novels would be illustrated. Not only was the site informative about how the novels would be illustrated in several different ways, it also shared why these illustrations were relevant. In addition to this site revamping and emphasizing Haggard’s illustrations in a new and exciting way, it also seeked to make these original illustrations art pieces themselves, almost independent of the novels but still relevant to the context. Each cover of a novel distincly relates back to Rider Haggard’s biography, which mentions his important literary themes: violence, South African culture, and love.
+
+![Screen Shot 2021-09-20 at 10 50 41 AM](https://user-images.githubusercontent.com/89642987/134024494-eb24987d-1300-49f2-b381-a761fcc648e4.png)
 
 #### **Design**
 

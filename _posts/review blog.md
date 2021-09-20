@@ -7,6 +7,8 @@ Visual Haggard is a project that aims to emphasize Rider Haggard’s novels and 
 
 After a quick browse of Visual Haggard, I noticed the information was clear about how Rider Haggard’s novels would be illustrated. Not only was the site informative about how the novels would be illustrated in several different ways, it also shared why these illustrations were relevant. In addition to this site revamping and emphasizing Haggard’s illustrations in a new and exciting way, it also seeks to make these original illustrations art pieces themselves, almost independent of the novels but still relevant to the context. Each cover of a novel can be seen to relate back to Rider Haggard’s biography, which mentions his important literary themes: violence, South African culture, and love.
 
+! [Front Page]
+
 **Findings**
 
 The Visual Haggard website was easy to navigate, and the links connected to the illustrations and novels were very accessible. The opening page of the site is clear with well-placed paragraphs of information on “How To Get Started.” The majority of the artwork and pictures related to Rider Haggard are clustered within the Illustrators and Novels tab of the project, and while these tabs are enjoyable to browse, the Biography and Editor’s Statement tabs could have integrated more pictures within the text. A few pictures scattered throughout text would help the large, intimidating paragraphs on the page seem more manageable. 

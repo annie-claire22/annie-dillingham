@@ -9,7 +9,7 @@
 
 This DH project aims to clarify what actually happened in Germany after the fall of the Berlin Wall. While there are likely numerous other physical resources for German migration and the fall of the Berlin Wall, Zeit Online compiles a substantial amount of information about everything there is to know about this occurrence in Germany during 1991-2017. It seems that Zeit Online is trying to reach a broader audience about this German migration and wishes to clarify any confusion or inaccuracies.
 
-![Screen Shot 2021-10-27 at 3 19 03 PM](https://user-images.githubusercontent.com/89642987/139132534-6010f269-936e-4a99-ab1e-bc2cafd3cfb6.png)!
+![Screen Shot 2021-10-27 at 3 19 03 PM](https://user-images.githubusercontent.com/89642987/139132534-6010f269-936e-4a99-ab1e-bc2cafd3cfb6.png)
 
 #### Credit
 
@@ -31,7 +31,7 @@ Zeit Online did an excellent job of including vast amounts of information about 
 
 The site itself was well-ordered; rather than beginning with the aftermath and consequences of migration, Zeit Online informed the reader about the beginning of migration, during, and after. The map and graphs placed throughout the main page were incredibly helpful with visualizing and understanding what the main body of text explained on the site. 
 
-[Screen Shot 2021-10-27 at 6 04 01 PM](https://user-images.githubusercontent.com/89642987/139153975-19fa43c3-48d4-4ced-9aab-f12b47562087.png)
+![Screen Shot 2021-10-27 at 6 04 01 PM](https://user-images.githubusercontent.com/89642987/139153975-19fa43c3-48d4-4ced-9aab-f12b47562087.png)
 
 The map at the top of the page is beautifully animated, but it would have been helpful to have a total timeline underneath the map. The map was likely intended to click through each year of German migration individually as it gives some information about different cities and towns in Germany. Having a total timeline of the migration would be helpful so that the reader could immediately know how long this issue in Germany occurred, but this is a very minor thing about the map. 
 

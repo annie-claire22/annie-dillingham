@@ -2,7 +2,7 @@
 
 ### **Project Director:** Christian Bangel
 
-### **Project URL:** [Zeit Online] (https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography?utm_referrer=http%3A%2F%2Fdhawards.org%2F)
+### **Project URL:** [Zeit Online](https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography?utm_referrer=http%3A%2F%2Fdhawards.org%2F)
 
 
 #### Relevance 

@@ -10,7 +10,9 @@ The image below is a look at the map and where I placed my points. I decided to 
 ![Screen Shot 2021-12-10 at 8 55 00 AM](https://user-images.githubusercontent.com/89642987/145585027-3f678c3e-1267-4862-bcb2-28580aec7773.png)
 
 
-An assingment I struggled with the most was the Grant. I mainly struggled with this assignment because it took me a little bit of time to think of a topic that was feasible. Once I figured out what my topic would be, things became much easier. As things did become easier, I did find I had some difficulty with writing the Grant Narrative and Environmental Scan for the project. I mainly worried that my writing would not sound professional enough, but I quickly remembered that this was not an actual grant, and as long as I committed to making my writing as formal as possible, it would all come together. Ultimately, this project was a great learning experience. 
+An assingment I struggled with the most was the Grant. I mainly struggled with this assignment because it took me a little bit of time to think of a topic that was feasible. Once I figured out what my topic would be, things became much easier. 
+
+As things did become easier, I did find I had some difficulty with writing the Grant Narrative and Environmental Scan for the project. I mainly worried that my writing would not sound professional enough, but I quickly remembered that this was not an actual grant, and as long as I committed to making my writing as formal as possible, it would all come together. Ultimately, this project was a great learning experience. 
 
 I loved using Twitter as a way to share ideas with everyone in the class. Before each class period I would submit a tweet, and it really made me reflect on what I had been reading or working on for the class. In a way, having a class Twitter helped me feel a sense of community because I could see what thoughts my classmates had about the reading as well. I am typically too shy to speak in class, so having a platform that allowed me to share my thoughts and questions was a great tool to use. 
 

@@ -1,7 +1,7 @@
 ## Reflection 
 When I first started my Digital Humanities course, I was very unsure of what digital humanities meant in general. Giving a solid definition and spotting a DH project was out of my range. Now, after being in the class for a semester, I feel much more confident about these things. 
 
-I am able to spot a DH project from one that looks like it could be a DH project but actually is not. To me, DH is combining the digital with something more traditional, like a physical text, and making something that can be shared with a community. I think I have a better understanding of DH in general since we practiced with it throughout the course. 
+I am able to spot a DH project from one that looks like it could be a DH project but actually is not. To me, DH is combining the digital with something more traditional, like a physical text, and making something that can be shared with a community. I think I have a better understanding of DH in general since we practiced how to use different types of media throughout the course. 
 
 One of my favorite assignments from this semester was the CNU map assignment. We were able to use a map of CNU's campus and make dots on specific parts of the campus. This was really enjoyable because I had the opportunity to reflect on my time at CNU. As a senior, I have a lot of memories from my time on campus, but I chose to focus on my marching band experience. 
 
